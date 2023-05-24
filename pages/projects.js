@@ -65,10 +65,10 @@ const Projects = () => {
         </div>
 
         <p id='bottom' className='text-xl sm:text-2xl text-center px-5'>This is
-          where you could put the first of your own custom projects or services.</p>
+          my first project. It is a full stack remake of Amazon</p>
         <button onClick={(e) => {
           e.preventDefault();
-          window.location.href = 'http://youtube.com';
+          window.location.href = 'https://nathan-amazon2.com';
         }} className='bg-[#9A0000] mt-5 py-2 px-8 sm:py-3 sm:px-10 rounded-md
            text-black font-bold text-lg'>View Project</button>
       </section>
@@ -121,10 +121,10 @@ const Projects = () => {
         </div>
 
         <p id='bottom-2' className='text-xl sm:text-2xl text-center px-5'>This is
-          where you could put the second of your own custom projects or services.</p>
+          my second project. It is a Full Stack remake of google</p>
         <button onClick={(e) => {
           e.preventDefault();
-          window.location.href = 'http://google.com';
+          window.location.href = 'https://google-2-nine.vercel.app';
         }} className='bg-[#9A0000]
        mt-5 py-2 px-8 sm:py-3 sm:px-10 rounded-md text-black
        font-bold text-lg'>View Project</button>
@@ -177,11 +177,11 @@ const Projects = () => {
           </motion.div>
         </div>
 
-        <p id='bottom-3' className='text-xl sm:text-2xl text-center px-5'>This is
-          where you could put the second of your own custom projects or services.</p>
+        <p id='bottom-3' className='text-xl sm:text-2xl text-center px-5'>This is my
+        third and final project. It is my own take on a music streaming application</p>
         <button onClick={(e) => {
           e.preventDefault();
-          window.location.href = 'http://netflix.com';
+          window.location.href = 'https://reverbstreaming.com';
         }} className='bg-[#9A0000]
       mt-5 py-2 px-8 sm:py-3 sm:px-10 rounded-md text-black font-bold
       text-lg'>View Project</button>
